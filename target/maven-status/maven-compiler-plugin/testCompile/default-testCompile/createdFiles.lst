@@ -1,0 +1,5 @@
+org/example/repository/UserRepositoryTest.class
+org/example/repository/DocumentRepositoryTest.class
+org/example/repository/ProfileRepositoryTest.class
+org/example/service/ProfileServiceTest.class
+org/example/service/DocumentServiceTest.class

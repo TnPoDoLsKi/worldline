@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.repository.ProfileRepositoryTest" time="0.002" tests="2" errors="0" skipped="0" failures="0">
+  <properties/>
+  <testcase name="shouldThrowDataBaseException" classname="org.example.repository.ProfileRepositoryTest" time="0"/>
+  <testcase name="insetProfileShouldWork" classname="org.example.repository.ProfileRepositoryTest" time="0"/>
+</testsuite>
